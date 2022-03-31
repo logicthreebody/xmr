@@ -1,0 +1,1 @@
+ 解决方法：输入命令 sudo chmod -R 777 /工作目录， 例如： sudo chmode -R 777 /home/HDD ，此时就可以在该路径下进行一系列的操作
